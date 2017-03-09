@@ -1,0 +1,17 @@
+{
+  "name": "wpscrape",
+  "version": "1.0.0",
+  "description": "Scrapes webpages and imports them into WordPress ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eyasu Kifle",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.5",
+    "fast-csv": "^2.4.0",
+    "jsdom": "^9.11.0",
+    "wpapi": "^1.0.3"
+  }
+}
